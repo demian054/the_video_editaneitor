@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c8491bf-d0be-4362-97ad-2a53fc1dc007" name="Default Changelist" comment="" />
+    <list default="true" id="3c8491bf-d0be-4362-97ad-2a53fc1dc007" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_videoeditaneitor/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_videoeditaneitor/modules/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_videoeditaneitor/modules/menuModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/the_videoeditaneitor/modules/videoFilesModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/menuModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/videoFileRowModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/the_videoeditaneitor/modules/videoFileRowModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/videoFilesModule.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modules/videoModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/the_videoeditaneitor/modules/videoModule.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/start.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,10 +43,43 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/the_videoeditaneitor/src" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\env\projects\personal\the_videoeditaneitor\the_videoeditaneitor\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\env\projects\personal\the_videoeditaneitor" />
+      <recent name="C:\env\projects\personal\the_videoeditaneitor\the_videoeditaneitor" />
+      <recent name="C:\env\projects\personal\the_videoeditaneitor\the_videoeditaneitor\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="the_videoeditaneitor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/the_videoeditaneitor" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/the_videoeditaneitor/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="the_videoeditaneitor" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -35,7 +92,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/start.py" />
+      <option name="SCRIPT_NAME" value="C:\env\projects\personal\the_videoeditaneitor\the_videoeditaneitor\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="the_videoeditaneitor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/the_videoeditaneitor/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\env\projects\personal\the_videoeditaneitor\the_videoeditaneitor\src\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="the_videoeditaneitor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\env\projects\personal\the_videoeditaneitor\start.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.start" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.main2" />
       </list>
     </recent_temporary>
   </component>
@@ -60,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590327619946</updated>
-      <workItem from="1590327622089" duration="117000" />
+      <workItem from="1590327622089" duration="39468000" />
     </task>
     <servers />
   </component>
@@ -72,12 +177,93 @@
       <screen x="1366" y="-309" width="1920" height="1040" />
     </state>
     <state x="1780" y="-134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590327807811" />
+    <state x="2049" y="14" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590498807779">
+      <screen x="1366" y="-309" width="1920" height="1040" />
+    </state>
+    <state x="2049" y="14" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590498807779" />
+    <state x="2053" y="118" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog" timestamp="1590346910009">
+      <screen x="1366" y="-309" width="1920" height="1040" />
+    </state>
+    <state x="2053" y="118" key="#com.jetbrains.python.refactoring.move.PyMakeFunctionTopLevelDialog/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590346910009" />
+    <state x="-1426" y="-118" width="927" height="585" key="#xdebugger.evaluate" timestamp="1590480322645">
+      <screen x="-1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state x="-1426" y="-118" width="927" height="585" key="#xdebugger.evaluate/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590480322645" />
+    <state x="2081" y="-82" key="#xdebugger.evaluate/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590333582692" />
+    <state width="1877" height="127" key="GridCell.Tab.0.bottom" timestamp="1590497268418">
+      <screen x="1366" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590488615501" />
+    <state width="1877" height="127" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590497268418" />
+    <state width="1877" height="127" key="GridCell.Tab.0.center" timestamp="1590497268418">
+      <screen x="1366" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.0.center/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590488615500" />
+    <state width="1877" height="127" key="GridCell.Tab.0.center/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590497268418" />
+    <state width="1877" height="127" key="GridCell.Tab.0.left" timestamp="1590497268418">
+      <screen x="1366" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.0.left/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590488615500" />
+    <state width="1877" height="127" key="GridCell.Tab.0.left/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590497268418" />
+    <state width="1877" height="127" key="GridCell.Tab.0.right" timestamp="1590497268418">
+      <screen x="1366" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="127" key="GridCell.Tab.0.right/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590488615500" />
+    <state width="1877" height="127" key="GridCell.Tab.0.right/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590497268418" />
+    <state width="1877" height="60" key="GridCell.Tab.1.bottom" timestamp="1590484994797">
+      <screen x="-1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="60" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590484994797" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590333730833" />
+    <state width="1877" height="60" key="GridCell.Tab.1.center" timestamp="1590484994796">
+      <screen x="-1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="60" key="GridCell.Tab.1.center/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590484994796" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590333730833" />
+    <state width="1877" height="60" key="GridCell.Tab.1.left" timestamp="1590484994795">
+      <screen x="-1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="60" key="GridCell.Tab.1.left/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590484994795" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590333730833" />
+    <state width="1877" height="60" key="GridCell.Tab.1.right" timestamp="1590484994796">
+      <screen x="-1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="60" key="GridCell.Tab.1.right/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590484994796" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590333730833" />
     <state x="1827" y="-147" key="SettingsEditor" timestamp="1590327737644">
       <screen x="1366" y="-309" width="1920" height="1040" />
     </state>
     <state x="1827" y="-147" key="SettingsEditor/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590327737644" />
+    <state x="-1309" y="-159" width="950" height="536" key="find.popup" timestamp="1590484360727">
+      <screen x="-1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state x="-1309" y="-159" width="950" height="536" key="find.popup/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@-1920.-309.1920.1040" timestamp="1590484360727" />
+    <state x="1977" y="-159" width="950" height="536" key="find.popup/0.0.1366.728/1366.-309.1920.1040/-1920.-309.1920.1040@1366.-309.1920.1040" timestamp="1590333695138" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/the_videoeditaneitor/modules/videoModule.py</url>
+          <line>299</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/the_videoeditaneitor/modules/videoFilesModule.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/the_videoeditaneitor/modules/menuModule.py</url>
+          <line>23</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/the_videoeditaneitor$start.coverage" NAME="start Coverage Results" MODIFIED="1590327812438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src" />
+    <SUITE FILE_PATH="coverage/the_videoeditaneitor$start.coverage" NAME="start Coverage Results" MODIFIED="1590496632227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/the_videoeditaneitor$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1590491977623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/the_videoeditaneitor/src" />
+    <SUITE FILE_PATH="coverage/the_videoeditaneitor$main__1_.coverage" NAME="main (1) Coverage Results" MODIFIED="1590497268406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/the_videoeditaneitor" />
   </component>
 </project>

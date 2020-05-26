@@ -2,6 +2,7 @@ import pygame as pg
 import pygame_gui as pgu
 import ntpath
 
+from the_videoeditaneitor.modules.videoModule import was_exported
 
 def path_leaf(path):
     head, tail = ntpath.split(path)
@@ -40,15 +41,27 @@ class VideoFileRow:
                 text='L',
                 manager=self.manager, container=self.container)
 
+            if was_exported(self.path_video):
+                self.text_box.background_colour = pg.Color(*pg.color.THECOLORS["darkolivegreen"])
+                self.text_box.rebuild()
+
             self.is_draw = True
 
-    def selected(self):
-        self.text_box.background_colour = pg.Color(*pg.color.THECOLORS["gray"])
-        self.text_box.rebuild()
+    def make_selected(self):
+        if was_exported(self.path_video):
+            self.text_box.background_colour = pg.Color(*pg.color.THECOLORS["darkolivegreen4"])
+            self.text_box.rebuild()
+        else:
+            self.text_box.background_colour = pg.Color(*pg.color.THECOLORS["gray40"])
+            self.text_box.rebuild()
 
-    def unselected(self):
-        self.text_box.background_colour = pg.Color(33, 40, 45, 255)
-        self.text_box.rebuild()
+    def make_non_selected(self):
+        if was_exported(self.path_video):
+            self.text_box.background_colour = pg.Color(*pg.color.THECOLORS["darkolivegreen"])
+            self.text_box.rebuild()
+        else:
+            self.text_box.background_colour = pg.Color(33, 40, 45, 255)
+            self.text_box.rebuild()
 
     def kill(self):
         if self.is_draw:

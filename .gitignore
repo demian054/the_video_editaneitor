@@ -1,5 +1,7 @@
 HELP.md
 target/
+py_env/
+dist/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
 !**/src/test/**
